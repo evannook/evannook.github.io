@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://evannook.github.io
+title: evannook's notes
+tagline: Some notes that meaningless
+description: Why so serious?
+paginate: 10
